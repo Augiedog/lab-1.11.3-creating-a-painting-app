@@ -1,4 +1,4 @@
-let brush = 'blue'
+let brush = 'black'
 const painting = document.querySelector('.painting')
 
 
