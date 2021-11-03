@@ -1,6 +1,6 @@
 let brush = 'black'
 const painting = document.querySelector('.painting')
-
+console.log(brush)
 
 painting.addEventListener('click', function(e){
   e.target.style.backgroundColor = brush  
