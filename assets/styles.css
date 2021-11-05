@@ -1,6 +1,12 @@
 body {
     font-family: Arial;
 }
+h2 {
+    text-align: start;
+}
+h3 {
+    text-transform: capitalize;
+}
 
 .palette {
     float: left;
@@ -9,8 +15,8 @@ body {
 
 .painting {
     float: left;
-    width: 90vmin;
-    height: 90vmin;
+    width: 100vmin;
+    height: 70vmin;
     border-style: solid;
     border-color: black;
     border-width: 1px;
